@@ -1,4 +1,4 @@
-# open-tsetlin-machine
+# Open Tsetlin Machine
 The Open Source Tsetlin Machine framework
 
 ## Introduction
